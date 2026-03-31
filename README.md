@@ -37,6 +37,7 @@
 - [🎉 Bonus Platforms](#-bonus-platforms)
 - [🤝 Contributing](#-contributing)
 
+| [AIfolio.cz](https://aifolio.cz) | 🇨🇿 Czech AI tools directory with 60+ curated tools in 10 categories | Free | AI Directory |
 ---
 
 ## 🔥 Top Launch Spots (Hit Every Time You Ship)
