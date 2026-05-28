@@ -72,6 +72,11 @@
 | 25 | [**LaunchPad India**](https://launchpadindia.co) | India-focused startup launch platform |
 | 26 | [**StackMention**](https://stackmention.com) | Get your product mentioned across the web |
 | 27 | [**AppLauncher**](https://www.applauncher.io) | Launch and discover new apps & products |
+| 28 | [***Aura++***](https://auraplusplus.com) | Startup launch platform offering scheduled launches, backlinks, and social promotion |
+| 29 | [***EarlyHunt***](https://earlyhunt.com) | Weekly launch platform where founders can showcase products to early adopters |
+| 30 | [***IndieHunt***](https://indiehunt.io) | AI-powered indie launch platform for showcasing startups, tools, and side projects |
+| 31 | [***SideHunt***](https://sidehunt.io) | Weekly side-project hunting platform where indie hackers launch products and collect votes |
+| 32 | [***MakerHunt***](https://makerhunt.io) | Community-driven weekly launch platform helping makers ship products |
 
 ---
 
