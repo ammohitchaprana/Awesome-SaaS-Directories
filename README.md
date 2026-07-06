@@ -85,6 +85,7 @@
 | [**Capterra**](https://capterra.com) | Comprehensive software listing and reviews |
 | [**GetApp**](https://getapp.com) | Discover and compare software tools |
 | [**Trustpilot**](https://trustpilot.com) | Collect customer reviews to establish trust |
+| [**JustLaunched**](https://justlaunched.fyi) | Submit and discover newly launched SaaS products, organized by category, to reach early adopters |
 
 ---
 
