@@ -96,6 +96,7 @@
 | [**Zapier Directory**](https://zapier.com/apps) | Tools integrated with Zapier |
 | [**B2B Stack**](https://b2bstack.com) | SaaS tools for B2B use |
 | [**TapRefer**](https://taprefer.com) | Biggest directory of affiliate programs |
+| [**SaaSCity**](https://saascity.io) | Gamified SaaS directory — every listing becomes a building on a live isometric city map |
 
 ---
 
