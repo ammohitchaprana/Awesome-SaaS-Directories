@@ -124,6 +124,7 @@
 | [**There's An AI**](https://theresanai.com) | The best AI Tools Directory |
 | [**Future Tools**](https://futuretools.io) | Stay up-to-date on AI Tools |
 | [**Toolkitly**](https://toolkitly.com) | Your Go-To Platform for Tech Tool Discussions, Innovations & Real-Time Updates |
+| [**DishRoll**](https://dishroll.netlify.app/) | AI-powered weekly meal planning PWA with Stripe freemium model |
 
 ---
 
