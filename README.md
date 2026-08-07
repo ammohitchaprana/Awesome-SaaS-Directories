@@ -207,6 +207,7 @@
 | [**AppRadar**](https://appradar.com) | SaaS tools for app marketing |
 | [**BuiltWith**](https://builtwith.com) | Discover SaaS products used by websites |
 | [**ConfettiSaaS**](https://confettisaas.com) | Discover Projects that Sparkle with Confetti |
+| [**JiYuShe**](https://jiyushe.com) | Discover, Share & Remix Community Curated Lists |
 
 ---
 
