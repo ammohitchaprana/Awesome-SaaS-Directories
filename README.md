@@ -124,6 +124,7 @@
 | [**There's An AI**](https://theresanai.com) | The best AI Tools Directory |
 | [**Future Tools**](https://futuretools.io) | Stay up-to-date on AI Tools |
 | [**Toolkitly**](https://toolkitly.com) | Your Go-To Platform for Tech Tool Discussions, Innovations & Real-Time Updates |
+| [**WhatAreYouBuilding.AI**](https://whatareyoubuilding.ai) | Free worldwide directory of what independent builders are shipping — AI, SaaS and dev tools (by country, category, funding stage). Free listing, dofollow; MCP at /mcp |
 
 ---
 
