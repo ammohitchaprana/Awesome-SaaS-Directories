@@ -148,6 +148,7 @@
 | [**Simple.ink**](https://simple.ink) | A directory for no-code SaaS builders |
 | [**API List**](https://apilist.fun) | Public APIs for developers |
 | [**Remote Tools**](https://remote.tools) | SaaS tools for remote work |
+| [**SaaS Launch Directories Explorer**](https://themerchcog.github.io/saas-launch-directories-2026/) | Interactive searchable database and backlink audit toolkit covering 100+ verified SaaS & AI launch platforms |
 
 ---
 
