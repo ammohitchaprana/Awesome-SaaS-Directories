@@ -72,6 +72,7 @@
 | 25 | [**LaunchPad India**](https://launchpadindia.co) | India-focused startup launch platform |
 | 26 | [**StackMention**](https://stackmention.com) | Get your product mentioned across the web |
 | 27 | [**AppLauncher**](https://www.applauncher.io) | Launch and discover new apps & products |
+| 28 | [**Nick Launches**](https://nicklaunches.com) | Daily discovery directory for indie products and SaaS, with a do-follow backlink on every listing |
 
 ---
 
