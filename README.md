@@ -93,6 +93,7 @@
 | Platform | Description |
 |----------|-------------|
 | [**SaaSHub**](https://saashub.com) | Independent SaaS marketplace |
+| [**submitby.ai**](https://submitby.ai) | Software directory with MCP/API submissions; free with a badge or $4.99 once without one |
 | [**Zapier Directory**](https://zapier.com/apps) | Tools integrated with Zapier |
 | [**B2B Stack**](https://b2bstack.com) | SaaS tools for B2B use |
 | [**TapRefer**](https://taprefer.com) | Biggest directory of affiliate programs |
