@@ -124,6 +124,8 @@
 | [**There's An AI**](https://theresanai.com) | The best AI Tools Directory |
 | [**Future Tools**](https://futuretools.io) | Stay up-to-date on AI Tools |
 | [**Toolkitly**](https://toolkitly.com) | Your Go-To Platform for Tech Tool Discussions, Innovations & Real-Time Updates |
+| [**AI Tools Radar**](https://aitoolsradar.com/) | Multilingual AI tools, models, skills and prompts directory; free public browsing, with paid vendor submissions and promotion. |
+
 
 ---
 
