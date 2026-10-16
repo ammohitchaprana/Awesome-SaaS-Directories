@@ -124,6 +124,7 @@
 | [**There's An AI**](https://theresanai.com) | The best AI Tools Directory |
 | [**Future Tools**](https://futuretools.io) | Stay up-to-date on AI Tools |
 | [**Toolkitly**](https://toolkitly.com) | Your Go-To Platform for Tech Tool Discussions, Innovations & Real-Time Updates |
+| [**Public Prompts**](https://www.publicprompts.art/) | Independent AI tools directory with category and pricing filters; paid, reviewed owner submissions. |
 
 ---
 
