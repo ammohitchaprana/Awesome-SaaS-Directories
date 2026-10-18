@@ -85,6 +85,7 @@
 | [**Capterra**](https://capterra.com) | Comprehensive software listing and reviews |
 | [**GetApp**](https://getapp.com) | Discover and compare software tools |
 | [**Trustpilot**](https://trustpilot.com) | Collect customer reviews to establish trust |
+| [**ZeroRaised**](https://zeroraised.com) | ZeroRaised is a free launch site for makers who took no institutional VC or accelerator equity. |
 
 ---
 
