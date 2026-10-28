@@ -81,6 +81,7 @@
 |----------|-------------|
 | [**Altern**](https://altern.ai) | Launch Your AI Tools |
 | [**Product Hunt**](https://producthunt.com) | The go-to platform to launch and discover new products |
+| [**RadarMakers**](https://radarmakers.com) | Free launch platform for indie makers, with hand review and ratings from other makers |
 | [**G2**](https://g2.com) | Software reviews to build credibility and reach businesses |
 | [**Capterra**](https://capterra.com) | Comprehensive software listing and reviews |
 | [**GetApp**](https://getapp.com) | Discover and compare software tools |
