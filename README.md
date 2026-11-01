@@ -124,6 +124,7 @@
 | [**There's An AI**](https://theresanai.com) | The best AI Tools Directory |
 | [**Future Tools**](https://futuretools.io) | Stay up-to-date on AI Tools |
 | [**Toolkitly**](https://toolkitly.com) | Your Go-To Platform for Tech Tool Discussions, Innovations & Real-Time Updates |
+| [**MeetNewAI**](https://meetnewai.com) | Free bilingual directory of AI tools, browser-playable AI games, and MCP servers by job-to-be-done |
 
 ---
 
