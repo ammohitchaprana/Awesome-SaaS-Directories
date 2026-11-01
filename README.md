@@ -85,6 +85,7 @@
 | [**Capterra**](https://capterra.com) | Comprehensive software listing and reviews |
 | [**GetApp**](https://getapp.com) | Discover and compare software tools |
 | [**Trustpilot**](https://trustpilot.com) | Collect customer reviews to establish trust |
+| [**SitePatent**](https://sitepatent.com/) | List startups, tools and online products by category and tech stack |
 
 ---
 
