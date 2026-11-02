@@ -85,6 +85,7 @@
 | [**Capterra**](https://capterra.com) | Comprehensive software listing and reviews |
 | [**GetApp**](https://getapp.com) | Discover and compare software tools |
 | [**Trustpilot**](https://trustpilot.com) | Collect customer reviews to establish trust |
+| [**MediaProNet**](https://mediapronet.com) | Directory where founders list and discover newly launched startups |
 
 ---
 
