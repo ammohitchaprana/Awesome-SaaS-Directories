@@ -110,6 +110,7 @@
 | [**SideProjectors**](https://sideprojectors.com) | A hub for SaaS side projects |
 | [**IndieProducts.io**](https://indieproducts.io) | A directory for Indie products, Solopreneurs and Buildinpublic makers |
 | [**PeerPush**](https://peerpush.net) | Build in Public, Discover & Share Innovative Products |
+| [**Awesome Indie**](https://awesomeindie.com) | Daily launch platform for indie makers, ranked by community upvotes |
 
 ---
 
