@@ -124,7 +124,8 @@
 | [**There's An AI**](https://theresanai.com) | The best AI Tools Directory |
 | [**Future Tools**](https://futuretools.io) | Stay up-to-date on AI Tools |
 | [**Toolkitly**](https://toolkitly.com) | Your Go-To Platform for Tech Tool Discussions, Innovations & Real-Time Updates |
-
+| [**AITrustList**](https://aitrustlist.com) | AI tools directory ranked by verified traffic and growth, 3,000+ tools across 200+ categories. |
+| [**AIHuntList**](https://aihuntlist.com) | Navigation hub for 3,000+ AI apps across 200+ categories. |
 ---
 
 ## 💡 Deal & Promo Platforms
